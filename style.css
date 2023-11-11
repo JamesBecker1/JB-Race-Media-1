@@ -6,10 +6,31 @@ header {
 	background-color:#000000;
 	padding:30px;
 	text-align: center;
-	font-size: 50px;
+	font-size: 80px;
 	color: rgb(255, 255, 255);
 	font-family: Paladins;
 	float: left;
+	position: absolute;
+	top: 0;
+}
+
+sub{
+	font-family: Paladins;
+	font: size 10px;
+	position: absolute;
+	bottom: 60em;
+	left: 3em;
+	color: rgb(255, 255, 255);
+}
+
+
+p{
+	font-family: Paladins;
+	font: size 10px;
+	position: absolute;
+	bottom: 60em;
+	left: 3em;
+	color: rgb(255, 255, 255);
 }
 
 
@@ -26,7 +47,7 @@ nav {
 	padding:50px;
 	text-align: left;
 	font-family: Paladins;
-	font-size: 40px;
+	font-size: 20px;
 	color: rgb(255, 255, 255);
 	text-decoration: none;
 	
@@ -61,12 +82,12 @@ a:hover {
 }
 
 img{
-	width: 950px;
-	height: 1235px;
+	width: 850px;
+	height: 1105px;
 	float: right;
 }
 
 h1 img{
-	width: 600px;
-	height: 300px;
+	width: 400px;
+	height: 200px;
 }
