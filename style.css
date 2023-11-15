@@ -24,15 +24,6 @@ sub{
 }
 
 
-p{
-	font-family: Paladins;
-	font: size 10px;
-	position: absolute;
-	bottom: 40em;
-	left: 3em;
-	color: rgb(255, 255, 255);
-}
-
 
 nav ul{
 	float: left;
@@ -98,37 +89,3 @@ h1 img{
 	top: 1em;
 }
 
-h2 img{
-	width: 800px;
-	height: 800px;
-	float: right;
-	border: #ffffff;
-	border-radius: 5cm;
-}
-
-h3 img{
-	width:1775px;
-	height:985px;
-	position: absolute;
-	bottom: 0em;
-	left: 0em;
-}
-
-h4 a{
-	font-family: Lastik;
-	position: absolute;
-	bottom:30em;
-	left: 1em;
-}
-
-h5 a{
-	font-family: Lastik;
-	position: absolute;
-	bottom:32em;
-	left: 1em;
-}
-
-sub{
-	position: absolute;
-	top: 10em;
-}
