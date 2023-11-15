@@ -27,7 +27,7 @@ a:hover {
 h3 a{
 	font-family: Lastik;
 	position: absolute;
-	bottom:30em;
+	bottom:20em;
 	left: 1em;
 }
 
@@ -35,8 +35,8 @@ h3 a{
 /* images */
 
 h1 img{
-	width: 800px;
-	height: 800px;
+	width: 700px;
+	height: 700px;
 	float: right;
 	border: #ffffff;
 	border-radius: 5cm;
@@ -55,7 +55,7 @@ p{
 	font-family: Paladins;
 	font: size 10px;
 	position: absolute;
-	bottom: 40em;
+	bottom: 27em;
 	left: 3em;
 	color: rgb(255, 255, 255);
 }
